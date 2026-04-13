@@ -18,7 +18,7 @@ export const experience = [
     id: 1,
     company: "VeraXium Technologies",
     role: "Full Stack Developer",
-    duration: "August 2024 - August 2025",
+    duration: "August 2024 - Present",
     achievements: [
       "Developed and maintained responsive web applications using React.js, JavaScript, and CSS, improving user experience and interactivity",
       "Improved application load speed by 40% through lazy loading, memoization, and performance tuning",

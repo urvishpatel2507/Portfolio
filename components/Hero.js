@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react'
 import Image from 'next/image'
-import { personalInfo } from '@/data/portfolio'
+import { personalInfo } from '../data/portfolio'
 import gsap from 'gsap'
 
 export default function Hero() {

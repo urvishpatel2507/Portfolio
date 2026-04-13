@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { Award, Calendar } from 'lucide-react'
-import { achievements } from '@/data/portfolio'
+import { achievements } from '../data/portfolio'
 
 export default function Achievements() {
 

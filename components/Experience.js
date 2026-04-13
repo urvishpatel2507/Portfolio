@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { Briefcase, Calendar } from 'lucide-react'
-import { experience } from '@/data/portfolio'
+import { experience } from '../data/portfolio'
 
 export default function Experience() {
 

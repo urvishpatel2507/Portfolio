@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
-import { projects } from '@/data/portfolio'
+import { projects } from '../data/portfolio'
 
 export default function Projects() {
 

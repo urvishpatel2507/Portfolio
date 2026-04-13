@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { GraduationCap, Calendar, MapPin } from 'lucide-react'
-import { education } from '@/data/portfolio'
+import { education } from '../data/portfolio'
 
 export default function Education() {
   return (

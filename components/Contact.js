@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { Mail, Phone, MapPin, Github, Linkedin, Send } from 'lucide-react'
-import { personalInfo } from '@/data/portfolio'
+import { personalInfo } from '../data/portfolio'
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -41,7 +41,7 @@ export default function Contact() {
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-primary-500 to-purple-500 mx-auto rounded-full"></div>
           <p className="text-gray-600 dark:text-gray-400 mt-4 max-w-2xl mx-auto">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+            I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
           </p>
         </motion.div>
 
