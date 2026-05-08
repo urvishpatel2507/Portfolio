@@ -86,7 +86,7 @@ export const skills = {
   "Backend": ["Node.js", "Express.js", "REST APIs", "WebSockets", "JWT"],
   "Database": ["MongoDB", "MySQL"],
   "Tools": ["GitHub", "Docker", "XAMPP", "Figma", "Linux", "AWS Cloud"],
-  "Fundamentals": ["Data Structures and Algorithms", "Operating Systems", "Object-Oriented Programming", "Computer Network"],
+  "Fundamentals": ["GenAI","Data Structures and Algorithms", "Operating Systems", "Object-Oriented Programming", "Computer Network"],
 }
 
 export const achievements = [
@@ -121,7 +121,7 @@ export const education = [
     id: 1,
     degree: "M.Tech in Information Technology",
     institution: "LD College of Engineering, Ahmedabad",
-    duration: "June 2024 - Present",
+    duration: "June 2024 - May 2026",
     score: "CPI: 8.00",
     location: "Gujarat, India",
   },
